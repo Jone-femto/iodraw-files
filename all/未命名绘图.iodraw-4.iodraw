@@ -24,13 +24,13 @@
         <mxCell id="ND-GwJbZP7nw5NqtzUrr-4" value="MK3超连续谱生成" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ND-GwJbZP7nw5NqtzUrr-9" value="6.5 mm" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ND-GwJbZP7nw5NqtzUrr-6" target="ND-GwJbZP7nw5NqtzUrr-8">
+        <mxCell id="ND-GwJbZP7nw5NqtzUrr-9" value="&lt;br&gt;200 fs&lt;br&gt;1000-1100 nm&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;HarmonyOS Sans SC&amp;quot;;&quot;&gt;φ=6.5 mm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ND-GwJbZP7nw5NqtzUrr-6" target="ND-GwJbZP7nw5NqtzUrr-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ND-GwJbZP7nw5NqtzUrr-6" value="MK4 功率监控&lt;br&gt;（PD1）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ND-GwJbZP7nw5NqtzUrr-11" value="6.5 mm" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ND-GwJbZP7nw5NqtzUrr-8" target="ND-GwJbZP7nw5NqtzUrr-10">
+        <mxCell id="ND-GwJbZP7nw5NqtzUrr-11" value="&lt;br&gt;5 fs&lt;br&gt;1000-1100 nm&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;HarmonyOS Sans SC&amp;quot;;&quot;&gt;φ=6.5 mm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ND-GwJbZP7nw5NqtzUrr-8" target="ND-GwJbZP7nw5NqtzUrr-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ND-GwJbZP7nw5NqtzUrr-8" value="MK5 脉冲压缩&lt;br&gt;SLM" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
