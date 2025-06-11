@@ -31,7 +31,7 @@
         <mxCell id="ND-GwJbZP7nw5NqtzUrr-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ND-GwJbZP7nw5NqtzUrr-8" target="ND-GwJbZP7nw5NqtzUrr-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ND-GwJbZP7nw5NqtzUrr-8" value="MK5 脉冲压缩" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ND-GwJbZP7nw5NqtzUrr-8" value="MK5 脉冲压缩&lt;br&gt;SLM" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ND-GwJbZP7nw5NqtzUrr-13" value="2.0 mm" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ND-GwJbZP7nw5NqtzUrr-10" target="ND-GwJbZP7nw5NqtzUrr-12">
