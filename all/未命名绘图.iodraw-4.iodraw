@@ -34,8 +34,14 @@
         <mxCell id="ND-GwJbZP7nw5NqtzUrr-8" value="MK5 脉冲压缩" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ND-GwJbZP7nw5NqtzUrr-10" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ND-GwJbZP7nw5NqtzUrr-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ND-GwJbZP7nw5NqtzUrr-10" target="ND-GwJbZP7nw5NqtzUrr-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ND-GwJbZP7nw5NqtzUrr-10" value="MK6&lt;br&gt;缩束望远镜" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ND-GwJbZP7nw5NqtzUrr-12" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
