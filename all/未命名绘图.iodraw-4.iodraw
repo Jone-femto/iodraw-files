@@ -47,6 +47,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ND-GwJbZP7nw5NqtzUrr-27" value="PD2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ND-GwJbZP7nw5NqtzUrr-26">
+          <mxGeometry x="0.0895" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ND-GwJbZP7nw5NqtzUrr-10" value="MK6&lt;br&gt;缩束望远镜" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="200" width="120" height="60" as="geometry" />
         </mxCell>
@@ -89,7 +94,7 @@
           <mxGeometry x="340" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ND-GwJbZP7nw5NqtzUrr-18" value="MK11&lt;br&gt;信号探测系统" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
