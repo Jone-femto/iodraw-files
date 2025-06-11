@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ND-GwJbZP7nw5NqtzUrr-3" value="200 fs&lt;br&gt;1030±5 nm" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ND-GwJbZP7nw5NqtzUrr-1" target="ND-GwJbZP7nw5NqtzUrr-2">
+        <mxCell id="ND-GwJbZP7nw5NqtzUrr-3" value="200 fs&lt;br&gt;1030±5 nm&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;HarmonyOS Sans SC&amp;quot;;&quot;&gt;φ=6.5 mm&lt;/span&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ND-GwJbZP7nw5NqtzUrr-1" target="ND-GwJbZP7nw5NqtzUrr-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ND-GwJbZP7nw5NqtzUrr-1" value="激光器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
