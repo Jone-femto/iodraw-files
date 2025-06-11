@@ -58,17 +58,32 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ND-GwJbZP7nw5NqtzUrr-22" value="&lt;br&gt;5 fs&lt;div&gt;1000-1100 nm&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;HarmonyOS Sans SC&amp;quot;;&quot;&gt;φ=2.0 mm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ND-GwJbZP7nw5NqtzUrr-15">
+          <mxGeometry x="-0.0853" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ND-GwJbZP7nw5NqtzUrr-12" value="MK7 功率调节&lt;br&gt;大部分机型没有" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ND-GwJbZP7nw5NqtzUrr-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ND-GwJbZP7nw5NqtzUrr-14" target="ND-GwJbZP7nw5NqtzUrr-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ND-GwJbZP7nw5NqtzUrr-23" value="&lt;br&gt;5 fs&lt;div&gt;1000-1100 nm&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;HarmonyOS Sans SC&amp;quot;;&quot;&gt;φ=2.0 mm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ND-GwJbZP7nw5NqtzUrr-17">
+          <mxGeometry x="0.0319" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ND-GwJbZP7nw5NqtzUrr-14" value="MK8 共轭扫描" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ND-GwJbZP7nw5NqtzUrr-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ND-GwJbZP7nw5NqtzUrr-16" target="ND-GwJbZP7nw5NqtzUrr-18">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ND-GwJbZP7nw5NqtzUrr-24" value="&lt;br&gt;5 fs&lt;div&gt;1000-1100 nm&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;HarmonyOS Sans SC&amp;quot;;&quot;&gt;φ=2.0 mm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ND-GwJbZP7nw5NqtzUrr-19">
+          <mxGeometry x="0.1543" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ND-GwJbZP7nw5NqtzUrr-16" value="MK9&amp;nbsp;&lt;br&gt;垂直系统" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="330" width="120" height="60" as="geometry" />
