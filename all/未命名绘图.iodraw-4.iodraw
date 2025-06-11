@@ -40,7 +40,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ND-GwJbZP7nw5NqtzUrr-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ND-GwJbZP7nw5NqtzUrr-10" target="ND-GwJbZP7nw5NqtzUrr-14">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="350" />
+              <mxPoint x="100" y="350" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ND-GwJbZP7nw5NqtzUrr-10" value="MK6&lt;br&gt;缩束望远镜" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="200" width="120" height="60" as="geometry" />
