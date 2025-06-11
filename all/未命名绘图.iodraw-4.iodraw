@@ -40,7 +40,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ND-GwJbZP7nw5NqtzUrr-10" value="MK6&lt;br&gt;缩束望远镜" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ND-GwJbZP7nw5NqtzUrr-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ND-GwJbZP7nw5NqtzUrr-12" target="ND-GwJbZP7nw5NqtzUrr-14">
           <mxGeometry relative="1" as="geometry" />
@@ -78,10 +78,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ND-GwJbZP7nw5NqtzUrr-16" value="MK9&amp;nbsp;&lt;br&gt;垂直系统" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ND-GwJbZP7nw5NqtzUrr-18" value="MK11&lt;br&gt;信号探测系统" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
