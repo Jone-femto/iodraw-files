@@ -34,13 +34,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ND-GwJbZP7nw5NqtzUrr-8" value="MK5 脉冲压缩&lt;br&gt;SLM" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ND-GwJbZP7nw5NqtzUrr-13" value="&lt;br&gt;5 fs&lt;div&gt;1000-1100 nm&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;HarmonyOS Sans SC&amp;quot;;&quot;&gt;φ=2.0 mm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ND-GwJbZP7nw5NqtzUrr-10" target="ND-GwJbZP7nw5NqtzUrr-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ND-GwJbZP7nw5NqtzUrr-10" value="MK6&lt;br&gt;缩束望远镜" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ND-GwJbZP7nw5NqtzUrr-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ND-GwJbZP7nw5NqtzUrr-12" target="ND-GwJbZP7nw5NqtzUrr-14">
           <mxGeometry relative="1" as="geometry" />
