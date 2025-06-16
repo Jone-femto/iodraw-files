@@ -70,8 +70,14 @@
         <mxCell id="84e9gsSVRpZbKfHvigMf-26" value="由市场人员提&lt;br&gt;流转流程" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="694" y="330" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="84e9gsSVRpZbKfHvigMf-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="84e9gsSVRpZbKfHvigMf-29" target="84e9gsSVRpZbKfHvigMf-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="84e9gsSVRpZbKfHvigMf-29" value="维修流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="14" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="14" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="84e9gsSVRpZbKfHvigMf-30" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
