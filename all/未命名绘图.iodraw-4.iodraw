@@ -33,11 +33,17 @@
         <mxCell id="84e9gsSVRpZbKfHvigMf-18" value="确定去向" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="84e9gsSVRpZbKfHvigMf-10" target="84e9gsSVRpZbKfHvigMf-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="84e9gsSVRpZbKfHvigMf-20" value="未确定去向" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="84e9gsSVRpZbKfHvigMf-10" target="84e9gsSVRpZbKfHvigMf-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="84e9gsSVRpZbKfHvigMf-10" value="市场需求" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="500" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="84e9gsSVRpZbKfHvigMf-17" value="现场环境" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="84e9gsSVRpZbKfHvigMf-19" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
