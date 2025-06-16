@@ -82,8 +82,8 @@
         <mxCell id="84e9gsSVRpZbKfHvigMf-36" value="AE 负责人" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="84e9gsSVRpZbKfHvigMf-34">
           <mxGeometry y="140" width="480" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="84e9gsSVRpZbKfHvigMf-39" value="&lt;div&gt;&lt;ol&gt;&lt;li&gt;设备型号&lt;/li&gt;&lt;li&gt;设备序列号&lt;/li&gt;&lt;li&gt;测试报告&lt;/li&gt;&lt;li&gt;DEMO过程中异常总结&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="84e9gsSVRpZbKfHvigMf-36">
-          <mxGeometry x="30" y="10" width="180" height="100" as="geometry" />
+        <mxCell id="84e9gsSVRpZbKfHvigMf-39" value="&lt;div&gt;&lt;ol&gt;&lt;li&gt;确认维修的必要性&lt;/li&gt;&lt;li&gt;确认维修的项目&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="84e9gsSVRpZbKfHvigMf-36">
+          <mxGeometry x="30" y="25" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="84e9gsSVRpZbKfHvigMf-37" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="84e9gsSVRpZbKfHvigMf-34">
           <mxGeometry y="260" width="480" height="120" as="geometry" />
