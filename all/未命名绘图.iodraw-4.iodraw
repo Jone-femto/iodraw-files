@@ -97,6 +97,33 @@
         <mxCell id="84e9gsSVRpZbKfHvigMf-42" value="&lt;ol&gt;&lt;li&gt;确认维修计划&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="84e9gsSVRpZbKfHvigMf-41">
           <mxGeometry x="30" y="30" width="140" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="84e9gsSVRpZbKfHvigMf-43" value="流转流程" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="440" width="230" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="84e9gsSVRpZbKfHvigMf-44" value="DEMO负责人" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="84e9gsSVRpZbKfHvigMf-43">
+          <mxGeometry y="20" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="84e9gsSVRpZbKfHvigMf-45" value="&lt;div&gt;&lt;ol&gt;&lt;li&gt;设备型号&lt;/li&gt;&lt;li&gt;设备序列号&lt;/li&gt;&lt;li&gt;测试报告&lt;/li&gt;&lt;li&gt;DEMO过程中异常总结&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="84e9gsSVRpZbKfHvigMf-44">
+          <mxGeometry x="30" y="10" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="84e9gsSVRpZbKfHvigMf-46" value="AE 负责人" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="84e9gsSVRpZbKfHvigMf-43">
+          <mxGeometry y="140" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="84e9gsSVRpZbKfHvigMf-47" value="&lt;div&gt;&lt;ol&gt;&lt;li&gt;确认维修的必要性&lt;/li&gt;&lt;li&gt;确认维修的项目&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="84e9gsSVRpZbKfHvigMf-46">
+          <mxGeometry x="30" y="25" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="84e9gsSVRpZbKfHvigMf-48" value="中心负责人" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="84e9gsSVRpZbKfHvigMf-43">
+          <mxGeometry y="260" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="84e9gsSVRpZbKfHvigMf-49" value="&lt;div&gt;&lt;ol&gt;&lt;li&gt;确认维修的必要性&lt;/li&gt;&lt;li&gt;确认维修的项目&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="84e9gsSVRpZbKfHvigMf-48">
+          <mxGeometry x="30" y="20" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="84e9gsSVRpZbKfHvigMf-50" value="生产负责人" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="84e9gsSVRpZbKfHvigMf-43">
+          <mxGeometry y="380" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="84e9gsSVRpZbKfHvigMf-51" value="&lt;ol&gt;&lt;li&gt;确认维修计划&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="84e9gsSVRpZbKfHvigMf-50">
+          <mxGeometry x="30" y="30" width="140" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
