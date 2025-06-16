@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="84e9gsSVRpZbKfHvigMf-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="84e9gsSVRpZbKfHvigMf-1" target="84e9gsSVRpZbKfHvigMf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="84e9gsSVRpZbKfHvigMf-1" value="设备流转" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="84e9gsSVRpZbKfHvigMf-2" value="设备状态" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="490" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
