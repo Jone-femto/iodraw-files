@@ -40,7 +40,7 @@
         <mxCell id="84e9gsSVRpZbKfHvigMf-10" value="市场需求" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="500" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="84e9gsSVRpZbKfHvigMf-12" value="先惨" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="84e9gsSVRpZbKfHvigMf-12" value="市场" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
