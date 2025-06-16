@@ -91,7 +91,7 @@
         <mxCell id="84e9gsSVRpZbKfHvigMf-40" value="&lt;div&gt;&lt;ol&gt;&lt;li&gt;确认维修的必要性&lt;/li&gt;&lt;li&gt;确认维修的项目&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="84e9gsSVRpZbKfHvigMf-37">
           <mxGeometry x="30" y="20" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="84e9gsSVRpZbKfHvigMf-41" value="中心负责人" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="84e9gsSVRpZbKfHvigMf-34">
+        <mxCell id="84e9gsSVRpZbKfHvigMf-41" value="生产负责人" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="84e9gsSVRpZbKfHvigMf-34">
           <mxGeometry y="380" width="480" height="120" as="geometry" />
         </mxCell>
         <mxCell id="84e9gsSVRpZbKfHvigMf-42" value="&lt;div&gt;&lt;ol&gt;&lt;li&gt;确认维修的必要性&lt;/li&gt;&lt;li&gt;确认维修的项目&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="84e9gsSVRpZbKfHvigMf-41">
