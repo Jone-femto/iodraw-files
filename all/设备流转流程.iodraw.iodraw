@@ -4,12 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FJNBWOx6_rZyYK9lbd-K-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJNBWOx6_rZyYK9lbd-K-1" target="FJNBWOx6_rZyYK9lbd-K-55">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FJNBWOx6_rZyYK9lbd-K-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJNBWOx6_rZyYK9lbd-K-55" target="FJNBWOx6_rZyYK9lbd-K-52">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-1" value="DEMO完成时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="75" width="120" height="60" as="geometry" />
         </mxCell>
@@ -147,9 +141,6 @@
           <mxGeometry x="40" width="140" height="60" as="geometry">
             <mxRectangle width="140" height="60" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="FJNBWOx6_rZyYK9lbd-K-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.214;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="FJNBWOx6_rZyYK9lbd-K-51" source="FJNBWOx6_rZyYK9lbd-K-52" target="FJNBWOx6_rZyYK9lbd-K-51">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
