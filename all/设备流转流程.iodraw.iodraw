@@ -4,6 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FJNBWOx6_rZyYK9lbd-K-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FJNBWOx6_rZyYK9lbd-K-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-1" value="DEMO完成时，EM确定设备去向" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="20" width="120" height="60" as="geometry" />
         </mxCell>
