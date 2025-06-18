@@ -13,6 +13,9 @@
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-6" value="回公司" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FJNBWOx6_rZyYK9lbd-K-2" target="FJNBWOx6_rZyYK9lbd-K-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="FJNBWOx6_rZyYK9lbd-K-18" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FJNBWOx6_rZyYK9lbd-K-2" target="FJNBWOx6_rZyYK9lbd-K-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-2" value="是否回公司" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="130" width="80" height="80" as="geometry" />
         </mxCell>
@@ -41,6 +44,9 @@
         </mxCell>
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-14" value="待机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FJNBWOx6_rZyYK9lbd-K-17" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
