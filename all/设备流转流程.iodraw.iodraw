@@ -107,6 +107,9 @@
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-30" value="由市场提&lt;br&gt;设备转运申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="560" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FJNBWOx6_rZyYK9lbd-K-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FJNBWOx6_rZyYK9lbd-K-33" target="FJNBWOx6_rZyYK9lbd-K-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-33" value="由生产或AE进行&lt;div&gt;现场安装调试&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="700" width="120" height="60" as="geometry" />
         </mxCell>
@@ -118,6 +121,9 @@
         </mxCell>
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-39" value="是否外出" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FJNBWOx6_rZyYK9lbd-K-44" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="830" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
