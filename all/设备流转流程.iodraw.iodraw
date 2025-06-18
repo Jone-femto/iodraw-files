@@ -33,6 +33,9 @@
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-10" value="设备是否&lt;div&gt;需要维修&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="260" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="FJNBWOx6_rZyYK9lbd-K-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJNBWOx6_rZyYK9lbd-K-12" target="FJNBWOx6_rZyYK9lbd-K-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-12" value="由生产负责维修" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="430" width="120" height="60" as="geometry" />
         </mxCell>
