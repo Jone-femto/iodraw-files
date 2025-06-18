@@ -53,20 +53,15 @@
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-14" value="待机，流程结束" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="40" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FJNBWOx6_rZyYK9lbd-K-28" value="需要维修" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;align=center;fontSize=13;" edge="1" parent="1" source="FJNBWOx6_rZyYK9lbd-K-27">
+        <mxCell id="FJNBWOx6_rZyYK9lbd-K-28" value="需要维修" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;align=center;fontSize=13;" edge="1" parent="1">
           <mxGeometry x="-0.2259" relative="1" as="geometry">
+            <mxPoint x="380" y="650" as="sourcePoint" />
             <mxPoint x="350" y="480" as="targetPoint" />
             <Array as="points">
               <mxPoint x="350" y="760" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="FJNBWOx6_rZyYK9lbd-K-31" value="不需要维修" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;fontSize=13;" edge="1" parent="1" source="FJNBWOx6_rZyYK9lbd-K-27" target="FJNBWOx6_rZyYK9lbd-K-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FJNBWOx6_rZyYK9lbd-K-27" value="生产人员&lt;div style=&quot;font-size: 13px;&quot;&gt;确认设备&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;align=center;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="380" y="720" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-34" value="设备转运" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;fontSize=13;" edge="1" parent="1" source="FJNBWOx6_rZyYK9lbd-K-30" target="FJNBWOx6_rZyYK9lbd-K-33">
           <mxGeometry relative="1" as="geometry" />
