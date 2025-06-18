@@ -19,21 +19,21 @@
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-20" value="技术确定新DEMO负责AE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1.048;exitY=0.521;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FJNBWOx6_rZyYK9lbd-K-2" target="FJNBWOx6_rZyYK9lbd-K-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="510" y="172" />
-              <mxPoint x="510" y="300" />
+              <mxPoint x="510" y="352" />
+              <mxPoint x="510" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-2" value="是否回公司" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="130" width="80" height="80" as="geometry" />
+          <mxGeometry x="360" y="310" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-8" value="设备运输回公司" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJNBWOx6_rZyYK9lbd-K-5" target="FJNBWOx6_rZyYK9lbd-K-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="280" as="targetPoint" />
+            <mxPoint x="240" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-5" value="由市场提&lt;br&gt;设备流转申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-13" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FJNBWOx6_rZyYK9lbd-K-10" target="FJNBWOx6_rZyYK9lbd-K-12">
           <mxGeometry relative="1" as="geometry" />
@@ -42,28 +42,32 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-10" value="设备是否&lt;div&gt;需要维修&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="260" width="80" height="80" as="geometry" />
+          <mxGeometry x="200" y="440" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-16" value="维修完成" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJNBWOx6_rZyYK9lbd-K-12" target="FJNBWOx6_rZyYK9lbd-K-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-12" value="由生产负责维修" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJNBWOx6_rZyYK9lbd-K-14" target="FJNBWOx6_rZyYK9lbd-K-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="50" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-14" value="待机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FJNBWOx6_rZyYK9lbd-K-17" target="FJNBWOx6_rZyYK9lbd-K-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-17" value="由原AE提交&lt;div&gt;设备流转申请&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
