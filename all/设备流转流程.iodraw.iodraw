@@ -99,7 +99,7 @@
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-30" value="由市场提&lt;br&gt;设备转运申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FJNBWOx6_rZyYK9lbd-K-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FJNBWOx6_rZyYK9lbd-K-33" value="由生产或AE进行&lt;div&gt;现场安装调试&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
