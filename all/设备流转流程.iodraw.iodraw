@@ -71,7 +71,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-27" value="生产人员&lt;div&gt;确认设备&lt;/div&gt;&lt;div&gt;状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="560" width="80" height="80" as="geometry" />
+          <mxGeometry x="360" y="600" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
