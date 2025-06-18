@@ -145,7 +145,7 @@
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJNBWOx6_rZyYK9lbd-K-1" target="FJNBWOx6_rZyYK9lbd-K-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FJNBWOx6_rZyYK9lbd-K-65" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FJNBWOx6_rZyYK9lbd-K-65" value="EM决定&lt;div&gt;设备去向&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="320" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
