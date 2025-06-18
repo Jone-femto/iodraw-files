@@ -16,7 +16,7 @@
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-2" value="是否回公司" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="130" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FJNBWOx6_rZyYK9lbd-K-8" value="设备运输回公司" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FJNBWOx6_rZyYK9lbd-K-5">
+        <mxCell id="FJNBWOx6_rZyYK9lbd-K-8" value="设备运输回公司" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJNBWOx6_rZyYK9lbd-K-5" target="FJNBWOx6_rZyYK9lbd-K-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="280" as="targetPoint" />
           </mxGeometry>
