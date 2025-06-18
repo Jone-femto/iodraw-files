@@ -15,13 +15,15 @@
             <mxPoint x="420" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FJNBWOx6_rZyYK9lbd-K-20" value="技术确定新DEMO负责AE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1.048;exitY=0.521;exitDx=0;exitDy=0;exitPerimeter=0;align=center;fontSize=13;" edge="1" parent="1" source="FJNBWOx6_rZyYK9lbd-K-2">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="FJNBWOx6_rZyYK9lbd-K-20" value="技术确定新DEMO负责AE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=1.048;exitY=0.521;exitDx=0;exitDy=0;exitPerimeter=0;align=center;fontSize=13;" edge="1" parent="1" source="FJNBWOx6_rZyYK9lbd-K-2" target="FJNBWOx6_rZyYK9lbd-K-30">
+          <mxGeometry x="-0.4327" relative="1" as="geometry">
             <mxPoint x="480.0000000000002" y="600" as="targetPoint" />
             <Array as="points">
               <mxPoint x="530" y="472" />
               <mxPoint x="530" y="600" />
+              <mxPoint x="450" y="600" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-2" value="是否回公司" style="rhombus;whiteSpace=wrap;html=1;align=center;fontSize=13;" vertex="1" parent="1">
