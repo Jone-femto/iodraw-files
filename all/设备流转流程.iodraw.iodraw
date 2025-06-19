@@ -174,7 +174,7 @@
         <mxCell id="53TH4ZHMyULW-cFDWKIt-84" value="确认设&lt;div&gt;备状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1201" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-92" value="流程转到AE负责人" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-85">
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-92" value="流程转到AE负责人" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-85" target="53TH4ZHMyULW-cFDWKIt-93">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1440" y="430" as="targetPoint" />
           </mxGeometry>
@@ -182,7 +182,7 @@
         <mxCell id="53TH4ZHMyULW-cFDWKIt-85" value="去新DEMO" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1380" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-93" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-93" value="前期准备" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="1370" y="440" width="140" height="104" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-94" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="53TH4ZHMyULW-cFDWKIt-93">
