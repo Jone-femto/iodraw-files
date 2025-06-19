@@ -122,9 +122,6 @@
         <mxCell id="53TH4ZHMyULW-cFDWKIt-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-61" target="53TH4ZHMyULW-cFDWKIt-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-61" target="53TH4ZHMyULW-cFDWKIt-64">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-61" value="DEMO完成&lt;div&gt;市场提出流程&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1181" y="40" width="120" height="60" as="geometry" />
         </mxCell>
@@ -146,7 +143,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-64" value="去新DEMO" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="1301" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-66" target="53TH4ZHMyULW-cFDWKIt-72">
           <mxGeometry relative="1" as="geometry" />
@@ -174,11 +171,11 @@
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-80" value="流程转到生产部门" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-76" target="53TH4ZHMyULW-cFDWKIt-84">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1320" y="430" as="targetPoint" />
+            <mxPoint x="1361" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-76" value="上传不开箱调试记录" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="1301" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-86" value="状态可以" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-84" target="53TH4ZHMyULW-cFDWKIt-85">
           <mxGeometry relative="1" as="geometry" />
@@ -187,13 +184,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-84" value="确认设&lt;div&gt;备状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="410" width="80" height="80" as="geometry" />
+          <mxGeometry x="1321" y="640" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-85" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="1301" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-87" value="状态异常" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="1461" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
