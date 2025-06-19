@@ -166,7 +166,7 @@
             <mxPoint x="1241" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-84" target="53TH4ZHMyULW-cFDWKIt-62">
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-88" value="状态不行" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-84" target="53TH4ZHMyULW-cFDWKIt-62">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1341" y="320" as="targetPoint" />
           </mxGeometry>
@@ -175,7 +175,7 @@
           <mxGeometry x="1201" y="280" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-85" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="1380" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
