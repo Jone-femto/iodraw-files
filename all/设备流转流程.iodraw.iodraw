@@ -50,6 +50,9 @@
         <mxCell id="53TH4ZHMyULW-cFDWKIt-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FJNBWOx6_rZyYK9lbd-K-92" target="53TH4ZHMyULW-cFDWKIt-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FJNBWOx6_rZyYK9lbd-K-92" target="53TH4ZHMyULW-cFDWKIt-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-92" value="市场提交&lt;div&gt;设备流转申请&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;startSize=30;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="400" y="340" width="80" height="80" as="geometry" />
         </mxCell>
@@ -58,6 +61,9 @@
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-3" value="回公司待机" style="whiteSpace=wrap;html=1;fontSize=16;startSize=30;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-5" value="去现场DEMO" style="whiteSpace=wrap;html=1;fontSize=16;startSize=30;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
