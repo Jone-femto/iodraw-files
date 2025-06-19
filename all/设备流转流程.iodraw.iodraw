@@ -267,7 +267,7 @@
         <mxCell id="53TH4ZHMyULW-cFDWKIt-126" value="回公司" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1181" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-129" value="2d" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-129" value="0.5d" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1560" y="580" as="sourcePoint" />
             <mxPoint x="1560" y="450" as="targetPoint" />
