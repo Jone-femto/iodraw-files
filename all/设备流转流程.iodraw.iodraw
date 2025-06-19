@@ -5,15 +5,15 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-1" value="DEMO完成时" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="380" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-84" value="EM确定设备去向" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="FJNBWOx6_rZyYK9lbd-K-51" target="FJNBWOx6_rZyYK9lbd-K-92" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="485" y="349.9999999999999" as="targetPoint" />
+            <mxPoint x="485" y="409.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-51" value="AE负责任务" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=13;align=center;" parent="1" vertex="1">
-          <mxGeometry x="350" y="120" width="180" height="120.00000000000011" as="geometry" />
+          <mxGeometry x="350" y="180" width="180" height="120.00000000000011" as="geometry" />
         </mxCell>
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-52" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=13;align=center;" parent="FJNBWOx6_rZyYK9lbd-K-51" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -54,70 +54,70 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-92" value="市场提交&lt;div style=&quot;font-size: 13px;&quot;&gt;设备流转&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;申请&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;startSize=30;fontStyle=0;" parent="1" vertex="1">
-          <mxGeometry x="400" y="340" width="80" height="80" as="geometry" />
+          <mxGeometry x="400" y="400" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-1" value="回公司维修" style="whiteSpace=wrap;html=1;fontSize=13;startSize=30;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-3" value="回公司待机" style="whiteSpace=wrap;html=1;fontSize=13;startSize=30;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-5" target="53TH4ZHMyULW-cFDWKIt-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-5" value="去新DEMO&lt;div style=&quot;font-size: 13px;&quot;&gt;确定人员&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=13;startSize=30;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-7" target="53TH4ZHMyULW-cFDWKIt-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-7" value="钉钉建立讨论群" style="whiteSpace=wrap;html=1;fontSize=13;startSize=30;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-14" target="53TH4ZHMyULW-cFDWKIt-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-14" value="管理&lt;div style=&quot;font-size: 13px;&quot;&gt;统筹&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="150" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-15" target="53TH4ZHMyULW-cFDWKIt-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-15" value="市场&lt;div style=&quot;font-size: 13px;&quot;&gt;确定场地、进入时间&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="150" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-16" target="53TH4ZHMyULW-cFDWKIt-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-16" value="生产&lt;div style=&quot;font-size: 13px;&quot;&gt;调试文件、远程支持&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="590" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-20" target="53TH4ZHMyULW-cFDWKIt-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-20" value="AE&lt;div style=&quot;font-size: 13px;&quot;&gt;安装、调试&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="590" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-22" target="53TH4ZHMyULW-cFDWKIt-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-22" value="设备开始流转" style="whiteSpace=wrap;html=1;fontSize=13;startSize=30;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-24" target="53TH4ZHMyULW-cFDWKIt-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-24" value="AE负责接收" style="whiteSpace=wrap;html=1;fontSize=13;startSize=30;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="930" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-26" target="53TH4ZHMyULW-cFDWKIt-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-26" value="AE负责调试" style="whiteSpace=wrap;html=1;fontSize=13;startSize=30;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="1070" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-28" value="开始DEMO" style="whiteSpace=wrap;html=1;fontSize=13;startSize=30;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="1210" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
