@@ -180,8 +180,10 @@
             <mxPoint x="1440" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-85" target="53TH4ZHMyULW-cFDWKIt-106">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1580" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-85" value="去新DEMO" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1380" y="290" width="120" height="60" as="geometry" />
@@ -203,12 +205,6 @@
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-102" value="确认现场、确认日期" style="whiteSpace=wrap;html=1;fillColor=none;fontStyle=0;startSize=26;" vertex="1" parent="1">
           <mxGeometry x="1380" y="420" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-104" value="" style="whiteSpace=wrap;html=1;fillColor=none;fontStyle=0;startSize=26;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="770" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-106" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
