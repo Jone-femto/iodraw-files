@@ -141,16 +141,16 @@
           <mxGeometry x="1260" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-66" value="维修" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-68" target="53TH4ZHMyULW-cFDWKIt-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-68" value="静置" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-70" value="流程结束" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
