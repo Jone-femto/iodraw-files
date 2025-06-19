@@ -119,6 +119,9 @@
         <mxCell id="53TH4ZHMyULW-cFDWKIt-28" value="开始DEMO" style="whiteSpace=wrap;html=1;fontSize=13;startSize=30;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
