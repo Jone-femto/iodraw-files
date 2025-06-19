@@ -122,13 +122,16 @@
         <mxCell id="53TH4ZHMyULW-cFDWKIt-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-61" target="53TH4ZHMyULW-cFDWKIt-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-61" target="53TH4ZHMyULW-cFDWKIt-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-61" value="DEMO完成&lt;div&gt;市场提出流程&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1181" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-62" value="去公司" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-64" value="去公司" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-64" value="去新DEMO" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
