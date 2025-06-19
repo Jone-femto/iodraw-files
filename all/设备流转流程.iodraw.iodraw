@@ -119,40 +119,13 @@
         <mxCell id="53TH4ZHMyULW-cFDWKIt-28" value="开始DEMO" style="whiteSpace=wrap;html=1;fontSize=13;startSize=30;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-30" target="53TH4ZHMyULW-cFDWKIt-37">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="90.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-30" value="市场收集资料&lt;div&gt;提出DEMO流转&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-37" value="选择目的地" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="71" width="140" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-38" value="回公司" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="53TH4ZHMyULW-cFDWKIt-37">
-          <mxGeometry y="26" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-39" value="去新DEMO" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="53TH4ZHMyULW-cFDWKIt-37">
-          <mxGeometry y="52" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-51" value="选择是否维修" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="48" width="140" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-52" value="维修" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="53TH4ZHMyULW-cFDWKIt-51">
-          <mxGeometry y="26" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-53" value="静置" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="53TH4ZHMyULW-cFDWKIt-51">
-          <mxGeometry y="52" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-38" target="53TH4ZHMyULW-cFDWKIt-51">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-59" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="80" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-53" target="53TH4ZHMyULW-cFDWKIt-59">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1520" y="120" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
