@@ -192,7 +192,7 @@
         <mxCell id="53TH4ZHMyULW-cFDWKIt-85" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1260" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-87" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-87" value="状态异常" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1420" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
