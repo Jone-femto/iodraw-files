@@ -44,8 +44,14 @@
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;align=center;fontSize=13;" parent="1" source="FJNBWOx6_rZyYK9lbd-K-1" target="FJNBWOx6_rZyYK9lbd-K-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FJNBWOx6_rZyYK9lbd-K-92" target="53TH4ZHMyULW-cFDWKIt-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FJNBWOx6_rZyYK9lbd-K-92" value="市场提交&lt;div&gt;设备流转申请&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;startSize=30;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-1" value="回公司维修" style="whiteSpace=wrap;html=1;fontSize=16;startSize=30;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
