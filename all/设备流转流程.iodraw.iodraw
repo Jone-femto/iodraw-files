@@ -168,7 +168,7 @@
             <mxPoint x="1341" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-84" target="53TH4ZHMyULW-cFDWKIt-126">
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-127" value="状态可以" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-84" target="53TH4ZHMyULW-cFDWKIt-126">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-84" value="确认设&lt;div&gt;备状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -261,7 +261,7 @@
             <mxPoint x="1560" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-126" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-126" value="回公司" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1181" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
