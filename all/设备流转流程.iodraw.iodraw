@@ -168,6 +168,9 @@
             <mxPoint x="1341" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-84" target="53TH4ZHMyULW-cFDWKIt-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-84" value="确认设&lt;div&gt;备状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1201" y="280" width="80" height="80" as="geometry" />
         </mxCell>
@@ -207,8 +210,12 @@
         <mxCell id="53TH4ZHMyULW-cFDWKIt-108" value="安装、调试" style="whiteSpace=wrap;html=1;fillColor=none;fontStyle=0;startSize=26;" vertex="1" parent="1">
           <mxGeometry x="1380" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-110" target="53TH4ZHMyULW-cFDWKIt-84">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-110" target="53TH4ZHMyULW-cFDWKIt-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1241" y="230" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-110" value="EM讨论介入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="200" width="120" height="60" as="geometry" />
@@ -253,6 +260,9 @@
             <mxPoint x="1560" y="450" as="sourcePoint" />
             <mxPoint x="1560" y="320" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-126" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
