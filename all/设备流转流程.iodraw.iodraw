@@ -222,6 +222,9 @@
         <mxCell id="53TH4ZHMyULW-cFDWKIt-118" value="确认设&lt;div&gt;备质量&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="630" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.647;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-118" target="53TH4ZHMyULW-cFDWKIt-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
