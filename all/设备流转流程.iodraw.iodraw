@@ -153,7 +153,7 @@
         <mxCell id="53TH4ZHMyULW-cFDWKIt-74" value="流程结束" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-80" value="流程转到生产负责人" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-76" target="53TH4ZHMyULW-cFDWKIt-84">
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-80" value="流程转到生产负责人/朱总" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-76" target="53TH4ZHMyULW-cFDWKIt-84">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1241" y="300" as="targetPoint" />
           </mxGeometry>
