@@ -172,14 +172,16 @@
         <mxCell id="53TH4ZHMyULW-cFDWKIt-74" value="流程结束" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-80" value="流程转到生产部门" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-76" target="53TH4ZHMyULW-cFDWKIt-79">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-80" value="流程转到生产部门" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-76" target="53TH4ZHMyULW-cFDWKIt-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1320" y="430" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-76" value="上传不开箱调试记录" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1260" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-79" value="生产部门确认&lt;div&gt;设备状态&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-84" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="450" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
