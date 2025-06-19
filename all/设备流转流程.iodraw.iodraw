@@ -144,7 +144,7 @@
         <mxCell id="53TH4ZHMyULW-cFDWKIt-66" value="维修" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-72" target="53TH4ZHMyULW-cFDWKIt-118">
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-119" value="流程转到质量负责人" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-72" target="53TH4ZHMyULW-cFDWKIt-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-72" value="质检" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
