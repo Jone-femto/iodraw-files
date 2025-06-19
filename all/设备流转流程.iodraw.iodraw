@@ -126,7 +126,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-62" value="去公司" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="970" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-61" target="53TH4ZHMyULW-cFDWKIt-76">
           <mxGeometry relative="1" as="geometry">
@@ -174,7 +174,7 @@
         <mxCell id="53TH4ZHMyULW-cFDWKIt-84" value="确认设&lt;div&gt;备状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1201" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-85" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-85" value="去新DEMO" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1380" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
