@@ -98,7 +98,7 @@
         <mxCell id="53TH4ZHMyULW-cFDWKIt-20" value="AE&lt;div&gt;安装、调试&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="53TH4ZHMyULW-cFDWKIt-22" value="" style="whiteSpace=wrap;html=1;fontSize=16;startSize=30;fontStyle=0;" vertex="1" parent="1">
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-22" value="设备开始流转" style="whiteSpace=wrap;html=1;fontSize=16;startSize=30;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
