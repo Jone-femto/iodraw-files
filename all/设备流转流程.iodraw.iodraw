@@ -140,6 +140,11 @@
         <mxCell id="53TH4ZHMyULW-cFDWKIt-52" value="维修" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="53TH4ZHMyULW-cFDWKIt-51">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="53TH4ZHMyULW-cFDWKIt-51" source="53TH4ZHMyULW-cFDWKIt-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="72" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-53" value="静置" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="53TH4ZHMyULW-cFDWKIt-51">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
