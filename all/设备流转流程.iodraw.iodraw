@@ -104,8 +104,14 @@
         <mxCell id="53TH4ZHMyULW-cFDWKIt-22" value="设备开始流转" style="whiteSpace=wrap;html=1;fontSize=16;startSize=30;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="790" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-24" target="53TH4ZHMyULW-cFDWKIt-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-24" value="AE负责接收" style="whiteSpace=wrap;html=1;fontSize=16;startSize=30;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-26" value="AE负责调试" style="whiteSpace=wrap;html=1;fontSize=16;startSize=30;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
