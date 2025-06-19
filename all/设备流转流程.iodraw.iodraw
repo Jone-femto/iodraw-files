@@ -224,7 +224,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-113" value="流程结束" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontStyle=0;startSize=26;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="900" width="80" height="80" as="geometry" />
+          <mxGeometry x="1400" y="850" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="53TH4ZHMyULW-cFDWKIt-118" target="53TH4ZHMyULW-cFDWKIt-121">
           <mxGeometry relative="1" as="geometry" />
@@ -287,6 +287,13 @@
         </mxCell>
         <mxCell id="53TH4ZHMyULW-cFDWKIt-131" value="生产人员介入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1181" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="53TH4ZHMyULW-cFDWKIt-133" value="2-3d" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1560" y="850" as="sourcePoint" />
+            <mxPoint x="1560" y="730" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
