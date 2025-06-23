@@ -10,7 +10,7 @@
         <mxCell id="-W4HvQoYzg7zQOBYDd9O-1" value="工作评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-W4HvQoYzg7zQOBYDd9O-5" value="进展顺利" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-W4HvQoYzg7zQOBYDd9O-2">
+        <mxCell id="-W4HvQoYzg7zQOBYDd9O-5" value="进展顺利" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-W4HvQoYzg7zQOBYDd9O-2" target="-W4HvQoYzg7zQOBYDd9O-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="219.9999999999999" as="targetPoint" />
           </mxGeometry>
@@ -24,7 +24,7 @@
         <mxCell id="-W4HvQoYzg7zQOBYDd9O-6" value="项目进展" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="340" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-W4HvQoYzg7zQOBYDd9O-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-W4HvQoYzg7zQOBYDd9O-8" value="完成销售" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="180" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
