@@ -24,14 +24,20 @@
         <mxCell id="-W4HvQoYzg7zQOBYDd9O-6" value="项目进展" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="340" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-W4HvQoYzg7zQOBYDd9O-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-W4HvQoYzg7zQOBYDd9O-8" target="-W4HvQoYzg7zQOBYDd9O-11">
+        <mxCell id="-W4HvQoYzg7zQOBYDd9O-12" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-W4HvQoYzg7zQOBYDd9O-8" target="-W4HvQoYzg7zQOBYDd9O-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-W4HvQoYzg7zQOBYDd9O-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-W4HvQoYzg7zQOBYDd9O-8" target="-W4HvQoYzg7zQOBYDd9O-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-W4HvQoYzg7zQOBYDd9O-8" value="是否实&lt;div&gt;现销售&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="180" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-W4HvQoYzg7zQOBYDd9O-11" value="&amp;gt;S" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-W4HvQoYzg7zQOBYDd9O-13" value="&amp;gt;S" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
