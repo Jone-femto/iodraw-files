@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="StUans3po3Ye5zFvuFCT">
-    <mxGraphModel dx="1195" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="683" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,8 +10,10 @@
         <mxCell id="-W4HvQoYzg7zQOBYDd9O-1" value="工作评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-W4HvQoYzg7zQOBYDd9O-5" value="进展顺利" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-W4HvQoYzg7zQOBYDd9O-2" target="-W4HvQoYzg7zQOBYDd9O-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-W4HvQoYzg7zQOBYDd9O-5" value="进展顺利" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-W4HvQoYzg7zQOBYDd9O-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="219.9999999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-W4HvQoYzg7zQOBYDd9O-7" value="进展不顺利" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-W4HvQoYzg7zQOBYDd9O-2" target="-W4HvQoYzg7zQOBYDd9O-6">
           <mxGeometry relative="1" as="geometry" />
@@ -19,11 +21,11 @@
         <mxCell id="-W4HvQoYzg7zQOBYDd9O-2" value="项目进展" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="180" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-W4HvQoYzg7zQOBYDd9O-4" value="进展顺利&lt;br&gt;A以上" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="-W4HvQoYzg7zQOBYDd9O-6" value="项目进展" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-W4HvQoYzg7zQOBYDd9O-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="180" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
