@@ -24,8 +24,8 @@
         <mxCell id="Lr1HZ7T2XMqxPbwyNUNK-6" value="Inside AE" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lr1HZ7T2XMqxPbwyNUNK-11" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="Lr1HZ7T2XMqxPbwyNUNK-11" value="小工具箱一同流转" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
