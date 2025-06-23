@@ -21,8 +21,10 @@
         <mxCell id="-W4HvQoYzg7zQOBYDd9O-2" value="项目进展" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="200" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-W4HvQoYzg7zQOBYDd9O-16" value="积极解决问题" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-W4HvQoYzg7zQOBYDd9O-6" target="-W4HvQoYzg7zQOBYDd9O-15">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-W4HvQoYzg7zQOBYDd9O-16" value="积极解决问题" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-W4HvQoYzg7zQOBYDd9O-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="510" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-W4HvQoYzg7zQOBYDd9O-18" value="不主动推动问题解决" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-W4HvQoYzg7zQOBYDd9O-6" target="-W4HvQoYzg7zQOBYDd9O-19">
           <mxGeometry relative="1" as="geometry">
@@ -46,9 +48,6 @@
         </mxCell>
         <mxCell id="-W4HvQoYzg7zQOBYDd9O-13" value="A" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="270" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-W4HvQoYzg7zQOBYDd9O-15" value="A" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="510" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-W4HvQoYzg7zQOBYDd9O-22" value="达标" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-W4HvQoYzg7zQOBYDd9O-19" target="-W4HvQoYzg7zQOBYDd9O-21">
           <mxGeometry relative="1" as="geometry" />
