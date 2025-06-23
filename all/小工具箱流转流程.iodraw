@@ -15,7 +15,7 @@
         <mxCell id="Lr1HZ7T2XMqxPbwyNUNK-7" value="需要补充耗材清单" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lr1HZ7T2XMqxPbwyNUNK-4" target="Lr1HZ7T2XMqxPbwyNUNK-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Lr1HZ7T2XMqxPbwyNUNK-12" value="去新DEMO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lr1HZ7T2XMqxPbwyNUNK-4" target="Lr1HZ7T2XMqxPbwyNUNK-11">
+        <mxCell id="Lr1HZ7T2XMqxPbwyNUNK-12" value="去新DEMO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lr1HZ7T2XMqxPbwyNUNK-4" target="Lr1HZ7T2XMqxPbwyNUNK-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lr1HZ7T2XMqxPbwyNUNK-4" value="现场DEMO&lt;div&gt;清点&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -25,7 +25,7 @@
           <mxGeometry x="414" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lr1HZ7T2XMqxPbwyNUNK-11" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
