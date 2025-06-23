@@ -46,7 +46,10 @@
         <mxCell id="Lr1HZ7T2XMqxPbwyNUNK-13" value="小工具箱回白云" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="174" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lr1HZ7T2XMqxPbwyNUNK-16" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Lr1HZ7T2XMqxPbwyNUNK-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lr1HZ7T2XMqxPbwyNUNK-16" target="Lr1HZ7T2XMqxPbwyNUNK-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lr1HZ7T2XMqxPbwyNUNK-16" value="寄送" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="614" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lr1HZ7T2XMqxPbwyNUNK-18" value="新DEMO" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
