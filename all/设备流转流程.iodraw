@@ -147,6 +147,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X1Z_UeZAoCDpxK3nqk_0-29" target="X1Z_UeZAoCDpxK3nqk_0-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="X1Z_UeZAoCDpxK3nqk_0-29" value="确认大工具箱流转" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="319.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
@@ -164,6 +167,9 @@
               <mxPoint x="20" y="410" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-51" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="459.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
