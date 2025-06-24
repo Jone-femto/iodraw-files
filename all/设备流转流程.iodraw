@@ -225,8 +225,8 @@
         </mxCell>
         <mxCell id="UYpJYt6ALibcGkwRKngf-21" value="流程处理&lt;div&gt;2h&lt;/div&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#ff0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="610" as="sourcePoint" />
-            <mxPoint x="520" y="540" as="targetPoint" />
+            <mxPoint x="519" y="611" as="sourcePoint" />
+            <mxPoint x="519" y="541" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UYpJYt6ALibcGkwRKngf-22" value="设备转运&lt;div&gt;2d&lt;/div&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#ff0000;" edge="1" parent="1">
