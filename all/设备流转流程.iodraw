@@ -168,14 +168,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-54" value="上传调试报告" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X1Z_UeZAoCDpxK3nqk_0-51" target="X1Z_UeZAoCDpxK3nqk_0-53">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-54" value="上传调试报告" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X1Z_UeZAoCDpxK3nqk_0-51" target="X1Z_UeZAoCDpxK3nqk_0-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="719.9655172413793" y="460" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="X1Z_UeZAoCDpxK3nqk_0-51" value="安装调试" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="499.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-53" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="399.9999999999999" width="120" height="60" as="geometry" />
+        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-55" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="680" y="380" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
