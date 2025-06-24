@@ -10,9 +10,6 @@
         <mxCell id="brjECmybAoVinuBaL-BJ-2" value="活细胞FLI图像采集" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LJOxacJ2QOOUmPRyLx6D-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="brjECmybAoVinuBaL-BJ-4" target="LJOxacJ2QOOUmPRyLx6D-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="brjECmybAoVinuBaL-BJ-4" value="图像数据分析" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="150" width="260" height="260" as="geometry" />
         </mxCell>
@@ -34,13 +31,17 @@
         <mxCell id="LJOxacJ2QOOUmPRyLx6D-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.012;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="brjECmybAoVinuBaL-BJ-2" target="brjECmybAoVinuBaL-BJ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LJOxacJ2QOOUmPRyLx6D-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LJOxacJ2QOOUmPRyLx6D-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="679.9999999999998" y="230.0344827586207" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="LJOxacJ2QOOUmPRyLx6D-9" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="320" width="140" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="LJOxacJ2QOOUmPRyLx6D-5" value="数据验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="LJOxacJ2QOOUmPRyLx6D-10" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="LJOxacJ2QOOUmPRyLx6D-9">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LJOxacJ2QOOUmPRyLx6D-11" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="LJOxacJ2QOOUmPRyLx6D-9">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LJOxacJ2QOOUmPRyLx6D-12" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="LJOxacJ2QOOUmPRyLx6D-9">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
