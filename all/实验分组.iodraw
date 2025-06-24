@@ -23,7 +23,7 @@
           <mxGeometry y="140" width="480" height="120" as="geometry" />
         </mxCell>
         <mxCell id="LJOxacJ2QOOUmPRyLx6D-2" value="1. 比较不同的通道的差异值&lt;div style=&quot;line-height: 200%;&quot;&gt;2. 计算不同通道的组合信号差异值&lt;/div&gt;&lt;div style=&quot;line-height: 200%;&quot;&gt;3. 确定通道与阈值&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="brjECmybAoVinuBaL-BJ-6">
-          <mxGeometry x="44" y="10" width="200" height="80" as="geometry" />
+          <mxGeometry x="44" y="20" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="brjECmybAoVinuBaL-BJ-7" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" parent="brjECmybAoVinuBaL-BJ-4" vertex="1">
           <mxGeometry y="260" width="480" height="120" as="geometry" />
