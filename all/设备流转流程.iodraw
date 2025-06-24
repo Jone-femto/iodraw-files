@@ -238,8 +238,8 @@
         </mxCell>
         <mxCell id="UYpJYt6ALibcGkwRKngf-23" value="流程处理&lt;div&gt;2h&lt;/div&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#ff0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="620" as="sourcePoint" />
-            <mxPoint x="530" y="550" as="targetPoint" />
+            <mxPoint x="336" y="574" as="sourcePoint" />
+            <mxPoint x="216" y="574" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
