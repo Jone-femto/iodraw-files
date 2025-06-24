@@ -168,8 +168,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X1Z_UeZAoCDpxK3nqk_0-51" target="X1Z_UeZAoCDpxK3nqk_0-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="X1Z_UeZAoCDpxK3nqk_0-51" value="安装调试" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="499.9999999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-53" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="499.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
