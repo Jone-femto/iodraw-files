@@ -204,9 +204,6 @@
             <mxPoint x="330" y="830.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UYpJYt6ALibcGkwRKngf-30" value="此节点开始，大工具箱与设备一同流转" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="340" width="60" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
