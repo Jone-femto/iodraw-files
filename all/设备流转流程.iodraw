@@ -172,17 +172,17 @@
         <mxCell id="DTPEZkRFV-t2J_WwvQcv-1" value="安装调试" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="615" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UYpJYt6ALibcGkwRKngf-2" value="1d" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#D61C3B;" edge="1" parent="1">
-          <mxGeometry x="0.1111" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="380" as="sourcePoint" />
-            <mxPoint x="340" y="290" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UYpJYt6ALibcGkwRKngf-3" value="1d" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#D61C3B;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry x="0.1111" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="240" as="sourcePoint" />
             <mxPoint x="200" y="150" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UYpJYt6ALibcGkwRKngf-4" value="1d" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#D61C3B;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry x="0.1111" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="339.31" y="380" as="sourcePoint" />
+            <mxPoint x="339.31" y="290" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
