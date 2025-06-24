@@ -172,9 +172,9 @@
         <mxCell id="DTPEZkRFV-t2J_WwvQcv-1" value="安装调试" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="615" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UYpJYt6ALibcGkwRKngf-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="UYpJYt6ALibcGkwRKngf-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="220" as="sourcePoint" />
+            <mxPoint x="200" y="240" as="sourcePoint" />
             <mxPoint x="200" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
