@@ -10,7 +10,7 @@
         <mxCell id="brjECmybAoVinuBaL-BJ-2" value="活细胞FLI图像采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="brjECmybAoVinuBaL-BJ-4" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
+        <mxCell id="brjECmybAoVinuBaL-BJ-4" value="图像数据分析" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="90" width="480" height="380" as="geometry" />
         </mxCell>
         <mxCell id="brjECmybAoVinuBaL-BJ-5" value="Lane 1" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="brjECmybAoVinuBaL-BJ-4">
