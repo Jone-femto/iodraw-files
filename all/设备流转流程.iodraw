@@ -151,7 +151,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X1Z_UeZAoCDpxK3nqk_0-29" value="确认大工具箱流转" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="534" y="319.9999999999999" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="319.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X1Z_UeZAoCDpxK3nqk_0-34" value="设备维修" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="499.9999999999999" width="120" height="60" as="geometry" />
