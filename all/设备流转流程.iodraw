@@ -173,8 +173,8 @@
             <mxPoint x="719.9655172413793" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-51" value="安装调试" style="whiteSpace=wrap;html=1;rounded=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="520" y="524.9999999999999" width="120" height="60" as="geometry" />
+        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-51" value="确定新DEMO安装时间" style="whiteSpace=wrap;html=1;rounded=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="520" y="525" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X1Z_UeZAoCDpxK3nqk_0-55" value="流程结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="540" y="650" width="80" height="80" as="geometry" />
