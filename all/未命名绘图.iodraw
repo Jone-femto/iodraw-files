@@ -4,26 +4,26 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="brjECmybAoVinuBaL-BJ-1" value="死细胞FLI图像采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="brjECmybAoVinuBaL-BJ-1" value="死细胞FLI图像采集" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="brjECmybAoVinuBaL-BJ-2" value="活细胞FLI图像采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="brjECmybAoVinuBaL-BJ-2" value="活细胞FLI图像采集" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="brjECmybAoVinuBaL-BJ-4" value="图像数据分析" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
+        <mxCell id="brjECmybAoVinuBaL-BJ-4" value="图像数据分析" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="90" width="480" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="brjECmybAoVinuBaL-BJ-5" value="确定可分析" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="brjECmybAoVinuBaL-BJ-4">
+        <mxCell id="brjECmybAoVinuBaL-BJ-5" value="确定可分析" style="swimlane;startSize=20;horizontal=0;html=1;" parent="brjECmybAoVinuBaL-BJ-4" vertex="1">
           <mxGeometry y="20" width="480" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="brjECmybAoVinuBaL-BJ-6" value="Lane 2" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="brjECmybAoVinuBaL-BJ-4">
+        <mxCell id="brjECmybAoVinuBaL-BJ-8" value="1. 计算两组图像中细胞区域的平均信号值（C0-C4）&lt;div&gt;2.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="brjECmybAoVinuBaL-BJ-5" vertex="1">
+          <mxGeometry x="30" y="20" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="brjECmybAoVinuBaL-BJ-6" value="Lane 2" style="swimlane;startSize=20;horizontal=0;html=1;" parent="brjECmybAoVinuBaL-BJ-4" vertex="1">
           <mxGeometry y="140" width="480" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="brjECmybAoVinuBaL-BJ-7" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="brjECmybAoVinuBaL-BJ-4">
+        <mxCell id="brjECmybAoVinuBaL-BJ-7" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" parent="brjECmybAoVinuBaL-BJ-4" vertex="1">
           <mxGeometry y="260" width="480" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="brjECmybAoVinuBaL-BJ-8" value="1. 计算两组图像中细胞区域的平均信号值（C0-C4）&lt;div&gt;2.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="143" width="300" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
