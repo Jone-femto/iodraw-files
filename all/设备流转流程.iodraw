@@ -136,8 +136,8 @@
         <mxCell id="X1Z_UeZAoCDpxK3nqk_0-29" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="309.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-34" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="389.9999999999999" width="120" height="60" as="geometry" />
+        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-34" value="设备维修" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="389.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
