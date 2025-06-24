@@ -186,7 +186,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UYpJYt6ALibcGkwRKngf-15" value="大工具箱邮寄&lt;div&gt;1d&lt;/div&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#ff0000;" edge="1" parent="1">
+        <mxCell id="UYpJYt6ALibcGkwRKngf-15" value="大工具箱邮寄&lt;div&gt;2d&lt;/div&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#ff0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="60" y="320" as="sourcePoint" />
             <mxPoint x="60" y="260" as="targetPoint" />
@@ -204,7 +204,7 @@
             <mxPoint x="100" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UYpJYt6ALibcGkwRKngf-18" value="设备转运&lt;div&gt;1d&lt;/div&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#ff0000;" edge="1" parent="1">
+        <mxCell id="UYpJYt6ALibcGkwRKngf-18" value="设备转运&lt;div&gt;2d&lt;/div&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#ff0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="630" as="sourcePoint" />
             <mxPoint x="100" y="540" as="targetPoint" />
