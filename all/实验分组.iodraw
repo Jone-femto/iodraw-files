@@ -10,6 +10,9 @@
         <mxCell id="brjECmybAoVinuBaL-BJ-2" value="活细胞FLI图像采集" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LJOxacJ2QOOUmPRyLx6D-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="brjECmybAoVinuBaL-BJ-4" target="LJOxacJ2QOOUmPRyLx6D-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="brjECmybAoVinuBaL-BJ-4" value="图像数据分析" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="150" width="260" height="260" as="geometry" />
         </mxCell>
