@@ -197,10 +197,10 @@
             <mxPoint x="60" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UYpJYt6ALibcGkwRKngf-17" value="不开箱调试1d" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#ff0000;" edge="1" parent="1">
+        <mxCell id="UYpJYt6ALibcGkwRKngf-17" value="2h" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#ff0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="390" as="sourcePoint" />
-            <mxPoint x="70" y="330" as="targetPoint" />
+            <mxPoint x="100" y="540" as="sourcePoint" />
+            <mxPoint x="100" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
