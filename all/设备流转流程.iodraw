@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="GapZwGImCe4qXFskH1k9">
-    <mxGraphModel dx="574" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,27 +181,27 @@
         </mxCell>
         <mxCell id="UYpJYt6ALibcGkwRKngf-25" value="流程处理不超过2小时" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#ff0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="379.8" as="sourcePoint" />
-            <mxPoint x="580" y="379.8" as="targetPoint" />
+            <mxPoint x="40" y="800" as="sourcePoint" />
+            <mxPoint x="330" y="800" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UYpJYt6ALibcGkwRKngf-26" value="设备流转不超过2天" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#ff0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="440" as="sourcePoint" />
-            <mxPoint x="580" y="440" as="targetPoint" />
+            <mxPoint x="40" y="860.2" as="sourcePoint" />
+            <mxPoint x="330" y="860.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UYpJYt6ALibcGkwRKngf-27" value="设备维修不超过5天" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#ff0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="460" as="sourcePoint" />
-            <mxPoint x="580" y="460" as="targetPoint" />
+            <mxPoint x="40" y="890.2" as="sourcePoint" />
+            <mxPoint x="330" y="890.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UYpJYt6ALibcGkwRKngf-28" value="设备安装调试不超过2天" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#ff0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="410" as="sourcePoint" />
-            <mxPoint x="580" y="410" as="targetPoint" />
+            <mxPoint x="40" y="830.2" as="sourcePoint" />
+            <mxPoint x="330" y="830.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
