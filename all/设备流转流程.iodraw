@@ -153,7 +153,7 @@
         <mxCell id="X1Z_UeZAoCDpxK3nqk_0-39" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="380" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-40" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-40" value="状态评估" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="310" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
