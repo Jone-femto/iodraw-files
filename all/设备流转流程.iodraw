@@ -119,8 +119,12 @@
         <mxCell id="X1Z_UeZAoCDpxK3nqk_0-30" value="状态良好&lt;div&gt;发往新DEMO地点&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X1Z_UeZAoCDpxK3nqk_0-26" target="X1Z_UeZAoCDpxK3nqk_0-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X1Z_UeZAoCDpxK3nqk_0-26" target="X1Z_UeZAoCDpxK3nqk_0-32">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-33" value="状态不好&lt;div&gt;发往公司&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X1Z_UeZAoCDpxK3nqk_0-26" target="X1Z_UeZAoCDpxK3nqk_0-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="X1Z_UeZAoCDpxK3nqk_0-26" value="评估设备状态" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="309.9999999999999" width="120" height="60" as="geometry" />
@@ -129,7 +133,7 @@
           <mxGeometry x="470" y="309.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X1Z_UeZAoCDpxK3nqk_0-32" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="449.9999999999999" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="389.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
