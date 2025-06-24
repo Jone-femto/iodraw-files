@@ -181,15 +181,15 @@
         </mxCell>
         <mxCell id="UYpJYt6ALibcGkwRKngf-25" value="流程处理不超过2小时" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#ff0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="382" as="sourcePoint" />
-            <mxPoint x="580" y="382" as="targetPoint" />
+            <mxPoint x="290" y="379.8" as="sourcePoint" />
+            <mxPoint x="580" y="379.8" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UYpJYt6ALibcGkwRKngf-26" value="设备流转不超过2天" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#ff0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="440" as="sourcePoint" />
-            <mxPoint x="580" y="440" as="targetPoint" />
+            <mxPoint x="290" y="420" as="sourcePoint" />
+            <mxPoint x="580" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UYpJYt6ALibcGkwRKngf-27" value="设备维修不超过5天" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#ff0000;" edge="1" parent="1">
@@ -200,8 +200,8 @@
         </mxCell>
         <mxCell id="UYpJYt6ALibcGkwRKngf-28" value="设备安装调试不超过2天" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#ff0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="414" as="sourcePoint" />
-            <mxPoint x="580" y="414" as="targetPoint" />
+            <mxPoint x="290" y="400" as="sourcePoint" />
+            <mxPoint x="580" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
