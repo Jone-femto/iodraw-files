@@ -16,7 +16,7 @@
         <mxCell id="X1Z_UeZAoCDpxK3nqk_0-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X1Z_UeZAoCDpxK3nqk_0-2" target="X1Z_UeZAoCDpxK3nqk_0-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-2" value="确认信息" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-2" value="确认信息" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="420" y="40" width="290" height="270.0000000000001" as="geometry" />
         </mxCell>
         <mxCell id="X1Z_UeZAoCDpxK3nqk_0-3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="X1Z_UeZAoCDpxK3nqk_0-2">
@@ -176,7 +176,7 @@
         <mxCell id="X1Z_UeZAoCDpxK3nqk_0-51" value="安装调试" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="499.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-55" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-55" value="流程结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="680" y="380" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
