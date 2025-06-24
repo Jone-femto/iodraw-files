@@ -34,8 +34,14 @@
         <mxCell id="LJOxacJ2QOOUmPRyLx6D-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.012;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="brjECmybAoVinuBaL-BJ-2" target="brjECmybAoVinuBaL-BJ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LJOxacJ2QOOUmPRyLx6D-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LJOxacJ2QOOUmPRyLx6D-5" target="LJOxacJ2QOOUmPRyLx6D-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LJOxacJ2QOOUmPRyLx6D-5" value="数据验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LJOxacJ2QOOUmPRyLx6D-7" value="数据验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
