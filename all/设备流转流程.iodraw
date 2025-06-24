@@ -121,8 +121,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-33" value="状态不好&lt;div&gt;发往公司&lt;/div&gt;&lt;div&gt;流转至生产负责人&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X1Z_UeZAoCDpxK3nqk_0-26" target="X1Z_UeZAoCDpxK3nqk_0-32">
+        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-33" value="状态不好&lt;div&gt;发往公司&lt;/div&gt;&lt;div&gt;流转至生产负责人&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X1Z_UeZAoCDpxK3nqk_0-26">
           <mxGeometry x="-0.0016" relative="1" as="geometry">
+            <mxPoint x="414" y="419.9655172413793" as="targetPoint" />
             <Array as="points">
               <mxPoint x="160" y="420" />
             </Array>
@@ -133,10 +134,7 @@
           <mxGeometry x="100" y="309.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X1Z_UeZAoCDpxK3nqk_0-29" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="309.9999999999999" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-32" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="389.9999999999999" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="309.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
