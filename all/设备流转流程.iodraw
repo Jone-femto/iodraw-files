@@ -172,13 +172,6 @@
         <mxCell id="DTPEZkRFV-t2J_WwvQcv-1" value="安装调试" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="615" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UYpJYt6ALibcGkwRKngf-1" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#994c00&quot;&gt;1d&lt;/font&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=default;shape=flexArrow;strokeWidth=1;" edge="1" parent="1">
-          <mxGeometry x="0.1034" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="237" as="sourcePoint" />
-            <mxPoint x="200" y="147" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UYpJYt6ALibcGkwRKngf-2" value="1d" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#D61C3B;" edge="1" parent="1">
           <mxGeometry x="0.1111" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="380" as="sourcePoint" />
