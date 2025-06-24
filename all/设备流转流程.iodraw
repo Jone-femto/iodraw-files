@@ -21,7 +21,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X1Z_UeZAoCDpxK3nqk_0-2" value="确认信息" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="290" y="110" width="290" height="240.0000000000001" as="geometry" />
+          <mxGeometry x="290" y="110" width="290" height="310" as="geometry" />
         </mxCell>
         <mxCell id="X1Z_UeZAoCDpxK3nqk_0-3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=12;" parent="X1Z_UeZAoCDpxK3nqk_0-2" vertex="1">
           <mxGeometry y="30" width="290" height="30" as="geometry" />
