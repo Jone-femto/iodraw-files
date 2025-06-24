@@ -118,13 +118,13 @@
         <mxCell id="X1Z_UeZAoCDpxK3nqk_0-25" value="不开箱调试&lt;div&gt;上传记录&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="169.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-30" value="状态良好&lt;div&gt;发往新DEMO地点&lt;/div&gt;&lt;div&gt;流转至新DEMO负责人&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="X1Z_UeZAoCDpxK3nqk_0-29">
+        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-30" value="状态良好&lt;div&gt;发往新DEMO地点&lt;/div&gt;&lt;div&gt;流转至新DEMO负责人&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="X1Z_UeZAoCDpxK3nqk_0-40" target="X1Z_UeZAoCDpxK3nqk_0-29">
           <mxGeometry x="-0.0014" relative="1" as="geometry">
             <mxPoint x="220" y="339.9999999999999" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-33" value="状态不好&lt;div&gt;发往公司&lt;/div&gt;&lt;div&gt;流转至生产负责人&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="X1Z_UeZAoCDpxK3nqk_0-34">
+        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-33" value="状态不好&lt;div&gt;发往公司&lt;/div&gt;&lt;div&gt;流转至生产负责人&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="X1Z_UeZAoCDpxK3nqk_0-40" target="X1Z_UeZAoCDpxK3nqk_0-34">
           <mxGeometry x="-0.0016" relative="1" as="geometry">
             <mxPoint x="160.0344827586207" y="369.9999999999999" as="sourcePoint" />
             <mxPoint x="414" y="419.9655172413793" as="targetPoint" />
