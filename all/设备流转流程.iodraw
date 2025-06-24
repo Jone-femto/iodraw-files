@@ -191,10 +191,10 @@
             <mxPoint x="80" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UYpJYt6ALibcGkwRKngf-16" value="大工具箱邮寄1d" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#ff0000;" edge="1" parent="1">
+        <mxCell id="UYpJYt6ALibcGkwRKngf-16" value="不开箱调试1d" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#ff0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="330" as="sourcePoint" />
-            <mxPoint x="90" y="270" as="targetPoint" />
+            <mxPoint x="80" y="380" as="sourcePoint" />
+            <mxPoint x="80" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
