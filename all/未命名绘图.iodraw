@@ -22,6 +22,9 @@
         <mxCell id="brjECmybAoVinuBaL-BJ-7" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="brjECmybAoVinuBaL-BJ-4">
           <mxGeometry y="260" width="480" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="brjECmybAoVinuBaL-BJ-8" value="1. 计算两组图像中细胞区域的平均信号值（C0-C4）&lt;div&gt;2.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="143" width="300" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
