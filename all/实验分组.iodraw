@@ -25,6 +25,9 @@
         <mxCell id="brjECmybAoVinuBaL-BJ-7" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" parent="brjECmybAoVinuBaL-BJ-4" vertex="1">
           <mxGeometry y="260" width="480" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="LJOxacJ2QOOUmPRyLx6D-2" value="1. 使用合适的工具框选ROI&lt;div style=&quot;line-height: 200%;&quot;&gt;2. 计算各通道的平均信号强度&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="244" y="155" width="180" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
