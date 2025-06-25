@@ -167,10 +167,10 @@
           <mxGeometry x="610" y="170" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-63" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="620" y="223" width="14" height="14" as="geometry" />
+          <mxGeometry x="616" y="224" width="14" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="K2-KR_Ko2oYYp_gNZQL2-64" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="620" y="255" width="30" height="30" as="geometry" />
+        <mxCell id="K2-KR_Ko2oYYp_gNZQL2-65" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="626" y="235" width="14" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
