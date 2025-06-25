@@ -31,6 +31,33 @@
         <mxCell id="5qPTDAZiI2WdmoUlbh5O-8" value="输出结果&lt;div&gt;报告&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="50" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="5qPTDAZiI2WdmoUlbh5O-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="5qPTDAZiI2WdmoUlbh5O-11" target="5qPTDAZiI2WdmoUlbh5O-13" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5qPTDAZiI2WdmoUlbh5O-11" value="采集数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5qPTDAZiI2WdmoUlbh5O-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="5qPTDAZiI2WdmoUlbh5O-13" target="5qPTDAZiI2WdmoUlbh5O-15" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5qPTDAZiI2WdmoUlbh5O-13" value="数据处理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5qPTDAZiI2WdmoUlbh5O-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="5qPTDAZiI2WdmoUlbh5O-15" target="5qPTDAZiI2WdmoUlbh5O-17" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5qPTDAZiI2WdmoUlbh5O-15" value="数据分析" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5qPTDAZiI2WdmoUlbh5O-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="5qPTDAZiI2WdmoUlbh5O-17" target="5qPTDAZiI2WdmoUlbh5O-18" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5qPTDAZiI2WdmoUlbh5O-17" value="数据可视化" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5qPTDAZiI2WdmoUlbh5O-18" value="输出结果&lt;div&gt;报告&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
