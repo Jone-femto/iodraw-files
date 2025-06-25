@@ -133,8 +133,11 @@
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-51" value="图像合成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K2-KR_Ko2oYYp_gNZQL2-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K2-KR_Ko2oYYp_gNZQL2-52" value="颜色1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="190" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K2-KR_Ko2oYYp_gNZQL2-53" value="颜色1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="200" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
