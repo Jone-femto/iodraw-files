@@ -8,7 +8,7 @@
           <mxGeometry x="80" y="50" width="880" height="880" as="geometry" />
         </mxCell>
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="120" y="90" width="370" height="370" as="geometry" />
+          <mxGeometry x="120" y="90" width="450" height="450" as="geometry" />
         </mxCell>
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-4" value="公式编辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="100" width="120" height="60" as="geometry" />
@@ -31,7 +31,7 @@
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-10" value="备用通道1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="380" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K2-KR_Ko2oYYp_gNZQL2-12" value="4通道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K2-KR_Ko2oYYp_gNZQL2-12" value="备用通道2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="420" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
