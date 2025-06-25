@@ -61,14 +61,10 @@
         <mxCell id="5qPTDAZiI2WdmoUlbh5O-18" value="输出结果&lt;div&gt;报告&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="217.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5qPTDAZiI2WdmoUlbh5O-23" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5qPTDAZiI2WdmoUlbh5O-11" target="5qPTDAZiI2WdmoUlbh5O-18">
+        <mxCell id="5qPTDAZiI2WdmoUlbh5O-24" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="320" as="sourcePoint" />
             <mxPoint x="460" y="270" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="460" y="320" />
-              <mxPoint x="410" y="270" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
