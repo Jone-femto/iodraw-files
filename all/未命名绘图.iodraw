@@ -128,7 +128,10 @@
           <mxGeometry x="210" y="446" width="340" height="34" as="geometry" />
         </mxCell>
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-50" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="130" y="100" width="450" height="450" as="geometry" />
+          <mxGeometry x="580" y="90" width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="K2-KR_Ko2oYYp_gNZQL2-51" value="公式编辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
