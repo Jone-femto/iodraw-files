@@ -10,8 +10,20 @@
         <mxCell id="5qPTDAZiI2WdmoUlbh5O-1" value="采集数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5qPTDAZiI2WdmoUlbh5O-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5qPTDAZiI2WdmoUlbh5O-2" target="5qPTDAZiI2WdmoUlbh5O-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5qPTDAZiI2WdmoUlbh5O-2" value="数据处理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5qPTDAZiI2WdmoUlbh5O-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5qPTDAZiI2WdmoUlbh5O-4" target="5qPTDAZiI2WdmoUlbh5O-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5qPTDAZiI2WdmoUlbh5O-4" value="数据分析" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5qPTDAZiI2WdmoUlbh5O-6" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
