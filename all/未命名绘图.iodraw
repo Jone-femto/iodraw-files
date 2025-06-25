@@ -134,37 +134,37 @@
           <mxGeometry x="590" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-52" value="颜色1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="200" width="50" height="30" as="geometry" />
+          <mxGeometry x="780" y="220" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-53" value="颜色2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="240" width="50" height="30" as="geometry" />
+          <mxGeometry x="780" y="260" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-54" value="颜色3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="280" width="50" height="30" as="geometry" />
+          <mxGeometry x="780" y="300" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-55" value="颜色4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="320" width="50" height="30" as="geometry" />
+          <mxGeometry x="780" y="340" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-56" value="颜色5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="360" width="50" height="30" as="geometry" />
+          <mxGeometry x="780" y="380" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-57" value="0通道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="200" width="60" height="30" as="geometry" />
+          <mxGeometry x="710" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-58" value="1通道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="240" width="60" height="30" as="geometry" />
+          <mxGeometry x="710" y="260" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-59" value="2通道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="280" width="60" height="30" as="geometry" />
+          <mxGeometry x="710" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-60" value="3通道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="320" width="60" height="30" as="geometry" />
+          <mxGeometry x="710" y="340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-61" value="4通道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="360" width="60" height="30" as="geometry" />
+          <mxGeometry x="710" y="380" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-62" value="是否参&lt;div&gt;与合成&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="170" width="50" height="30" as="geometry" />
+          <mxGeometry x="610" y="170" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
