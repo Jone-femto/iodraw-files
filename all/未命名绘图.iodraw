@@ -43,8 +43,8 @@
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-16" value="C2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="100" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="K2-KR_Ko2oYYp_gNZQL2-17" value="C2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="110" width="30" height="20" as="geometry" />
+        <mxCell id="K2-KR_Ko2oYYp_gNZQL2-17" value="C3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="100" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
