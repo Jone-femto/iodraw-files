@@ -61,7 +61,7 @@
         <mxCell id="5qPTDAZiI2WdmoUlbh5O-18" value="输出结果&lt;div&gt;报告&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="217.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5qPTDAZiI2WdmoUlbh5O-24" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5qPTDAZiI2WdmoUlbh5O-11">
+        <mxCell id="5qPTDAZiI2WdmoUlbh5O-24" value="客户希望的解决方案" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5qPTDAZiI2WdmoUlbh5O-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="320" as="sourcePoint" />
             <mxPoint x="900" y="300" as="targetPoint" />
