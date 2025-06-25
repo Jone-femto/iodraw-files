@@ -56,7 +56,7 @@
           <mxGeometry x="530" y="100" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-21" value="先计算B，再计算C" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="340" width="60" height="30" as="geometry" />
+          <mxGeometry x="140" y="500" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
