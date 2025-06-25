@@ -151,10 +151,10 @@
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-57" value="0通道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="200" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K2-KR_Ko2oYYp_gNZQL2-58" value="0通道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K2-KR_Ko2oYYp_gNZQL2-58" value="1通道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="240" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K2-KR_Ko2oYYp_gNZQL2-59" value="0通道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K2-KR_Ko2oYYp_gNZQL2-59" value="2通道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-60" value="0通道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
