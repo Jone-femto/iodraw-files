@@ -28,6 +28,9 @@
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-9" value="4通道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="340" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="K2-KR_Ko2oYYp_gNZQL2-10" value="4通道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
