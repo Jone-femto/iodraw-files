@@ -136,8 +136,11 @@
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-52" value="颜色1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="190" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K2-KR_Ko2oYYp_gNZQL2-53" value="颜色1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="200" width="50" height="30" as="geometry" />
+        <mxCell id="K2-KR_Ko2oYYp_gNZQL2-53" value="颜色2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="230" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K2-KR_Ko2oYYp_gNZQL2-54" value="颜色2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="270" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
