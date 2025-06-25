@@ -182,19 +182,22 @@
           <mxGeometry x="616" y="388" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-76" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="626" y="236" width="14" height="14" as="geometry" />
+          <mxGeometry x="860" y="219" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-77" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="626" y="278" width="14" height="14" as="geometry" />
+          <mxGeometry x="860" y="261" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-78" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="626" y="310" width="14" height="14" as="geometry" />
+          <mxGeometry x="860" y="293" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-79" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="626" y="354" width="14" height="14" as="geometry" />
+          <mxGeometry x="860" y="337" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-80" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="626" y="398" width="14" height="14" as="geometry" />
+          <mxGeometry x="860" y="381" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="K2-KR_Ko2oYYp_gNZQL2-81" value="是否参&lt;div&gt;与合成&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="176" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
