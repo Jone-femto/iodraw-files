@@ -16,7 +16,7 @@
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-5" value="0通道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K2-KR_Ko2oYYp_gNZQL2-6" value="0通道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K2-KR_Ko2oYYp_gNZQL2-6" value="1&lt;span style=&quot;background-color: initial;&quot;&gt;通道&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-7" value="0通道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -26,7 +26,7 @@
           <mxGeometry x="140" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-9" value="0通道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="310" width="60" height="30" as="geometry" />
+          <mxGeometry x="140" y="340" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
