@@ -13,8 +13,11 @@
         <mxCell id="K2-KR_Ko2oYYp_gNZQL2-4" value="公式编辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K2-KR_Ko2oYYp_gNZQL2-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="K2-KR_Ko2oYYp_gNZQL2-5" value="0通道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K2-KR_Ko2oYYp_gNZQL2-6" value="0通道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="190" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
