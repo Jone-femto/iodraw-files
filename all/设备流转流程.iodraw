@@ -147,7 +147,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-33" value="状态不好&lt;div style=&quot;font-size: 12px;&quot;&gt;发往公司&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;流转至生产负责人&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" parent="1" source="X1Z_UeZAoCDpxK3nqk_0-40" target="X1Z_UeZAoCDpxK3nqk_0-34" edge="1">
+        <mxCell id="X1Z_UeZAoCDpxK3nqk_0-33" value="状态不好&lt;div style=&quot;font-size: 12px;&quot;&gt;流转至生产负责人&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" parent="1" source="X1Z_UeZAoCDpxK3nqk_0-40" target="X1Z_UeZAoCDpxK3nqk_0-34" edge="1">
           <mxGeometry x="0.0053" relative="1" as="geometry">
             <mxPoint x="170.0344827586207" y="549.9999999999999" as="sourcePoint" />
             <mxPoint x="424" y="599.9655172413793" as="targetPoint" />
