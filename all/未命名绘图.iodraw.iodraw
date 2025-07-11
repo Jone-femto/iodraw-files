@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eeZJ0kcSco-5O0Uv2oer-1" value="关键问题&lt;div&gt;&lt;span style=&quot;font-size:18.0pt;font-family:&amp;quot;HarmonyOS Sans SC&amp;quot;;&lt;br/&gt;mso-ascii-font-family:Arial;mso-fareast-font-family:&amp;quot;HarmonyOS Sans SC&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;HarmonyOS Sans SC&amp;quot;;mso-ascii-theme-font:minor-latin;&lt;br/&gt;mso-fareast-theme-font:minor-fareast;color:#1B1C1D;mso-font-kerning:12.0pt;&lt;br/&gt;language:zh-CN;mso-style-textfill-type:solid;mso-style-textfill-fill-color:&lt;br/&gt;#1B1C1D;mso-style-textfill-fill-alpha:100.0%&quot;&gt;乳腺癌诊断成像技术&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
